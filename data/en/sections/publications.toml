@@ -1,0 +1,12 @@
+[section]
+name = "Publications"
+id = "publications"
+enable = false
+weight = 7
+showOnNavbar = true
+
+# [[buttons]]
+# name = "All"
+# filter = "all"
+
+[[publications]]

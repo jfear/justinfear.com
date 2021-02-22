@@ -1,0 +1,42 @@
+[section]
+name = "Technical Skills"
+id = "skills"
+enable = true
+weight = 2
+showOnNavbar = true
+
+[[skills]]
+name = "Genomics and NGS"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """
+"""
+
+[[skills]]
+name = "Statistics"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """
+"""
+
+[[skills]]
+name = "Data Engineering"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """
+"""
+
+[[skills]]
+name = "Machine Learning"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """
+"""
+
+[[skills]]
+name = "Programming"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """
+"""
+
+[[skills]]
+name = "DevOps"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """
+"""

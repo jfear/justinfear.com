@@ -1,0 +1,29 @@
+[section]
+name = "Projects"
+id = "projects"
+enable = false
+weight = 4
+showOnNavbar = true
+
+[[buttons]]
+name = "All"
+filter = "all"
+
+[[buttons]]
+name = "Professional"
+filter = "professional"
+
+[[buttons]]
+name = "Academic"
+filter = "academic"
+
+[[projects]]
+# name = "Kubernetes"
+# logo = ""
+# role = "Contributor"  # Developer Owner
+# timeline = "March 2018 - Present"
+# repo = "https://example.com"
+# summary = """
+# This is a summary.
+# """
+# tags = ["professional", "cloud"]

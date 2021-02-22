@@ -1,0 +1,12 @@
+[section]
+name = "Talks and Lectures"
+id = "talks"
+enable = false
+weight = 6
+showOnNavbar = true
+
+# [[buttons]]
+# name = "All"
+# filter = "all"
+
+[[talks]]

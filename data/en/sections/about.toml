@@ -1,0 +1,55 @@
+designation = "Data Scientist and Bioinformatics Engineer"
+summary = """
+I am a passionate data scientist with over ten years of experience working in
+basic science and genomics research. I have a diverse background starting as
+a molecular biologist then transitioning into computational biology and
+statistics. I am the perfect collaborator with experience working with
+biologists, geneticists, statisticians, and computer scientists.
+"""
+
+[section]
+name = "About"
+id = "about"
+enable = true
+weight = 1
+showOnNavbar = true
+template = "sections/about.html"
+
+[company]
+name = "NIH"
+url = "http://www.example.com"
+
+[[socialLinks]]
+name = "GitHub"
+icon = "fab fa-github"
+url = "https://github.com/jfear"
+
+[[softSkills]]
+name = "Collaboration"
+percentage = 100
+color = "blue"
+
+[[softSkills]]
+name = "Leadership"
+percentage = 90
+color = "yellow"
+
+[[softSkills]]
+name = "Teaching"
+percentage = 90
+color = "pink"
+
+[[softSkills]]
+name = "Learning"
+percentage = 100
+color = "green"
+
+[[softSkills]]
+name = "Problem Solving"
+percentage = 90
+color = "sky"
+
+[[softSkills]]
+name = "Communicating"
+percentage = 85
+color = "orange"

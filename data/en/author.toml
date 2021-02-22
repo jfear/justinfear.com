@@ -1,0 +1,12 @@
+name = "Justin Fear"
+greeting = "Hi, I am "
+image = "images/profile.jpg"
+summary = [
+    "I am a Data Scientist",
+    "I am a Genomicist",
+    "I am a Bioinformatics Engineer",
+    "I am a Python enthusiast",
+]
+
+[contactInfo]
+email = "justin.m.fear@gmail.com"

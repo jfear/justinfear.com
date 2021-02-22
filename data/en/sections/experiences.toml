@@ -1,0 +1,57 @@
+[section]
+name = "Experience"
+id = "experiences"
+enable = true
+weight = 3
+showOnNavbar = true
+
+[[experiences]]
+
+[experiences.company]
+name = "National Institutes of Health (NIH)"
+url = "https://nih.gov"
+location = "Bethesda, MD"
+overview = "The National Institutes of Health is the worlds largest medical research institute."
+
+[[experiences.positions]]
+designation = "Bioinformatics Engineer II - Consultant (NCI)"
+start = "Aug 2020"
+responsibilities = []
+
+[[experiences.positions]]
+designation = "Research Associate - Genomics Postdoctoral Fellow (NIDDK)"
+start = "Oct 2015"
+end = "Aug 2020"
+responsibilities = []
+
+[[experiences]]
+
+[experiences.company]
+name = "University of Florida"
+url = "https://ufl.edu"
+location = "Gainesville, FL"
+
+[[experiences.positions]]
+designation = "Graduate Research Assistant - Genomics"
+start = "Aug 2010"
+end = "Aug 2015"
+responsibilities = []
+
+[[experiences.positions]]
+designation = "Graduate Research Assistant - Embryology"
+start = "Aug 2007"
+end = "Aug 2010"
+responsibilities = []
+
+[[experiences]]
+
+[experiences.company]
+name = "The Ohio State University"
+url = "https://osu.edu"
+location = "Wooster, OH"
+
+[[experiences.positions]]
+designation = "Laboratory Manager - Immunology"
+start = "2005"
+end = "2007"
+responsibilities = []
