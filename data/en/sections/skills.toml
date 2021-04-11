@@ -6,16 +6,22 @@ weight = 2
 showOnNavbar = true
 
 [[skills]]
-name = "Genomics and NGS"
+name = "Genomics"
 # icon = "/images/sections/skills/kubernetes.png"
-summary = """
-"""
+summary = """Experience in designing, executing, and analyzing genomic studies
+in a variety of systems including Human, *Drosophila melanogaster*, *Sorghum
+bicolor*, and *Herpes simplex*."""
+
+[[skills]]
+name = "Next Generation Sequencing"
+# icon = "/images/sections/skills/kubernetes.png"
+summary = """Experience analyzing a large variety of NGS data including
+RNA-Seq, scRNA-Seq, PacBio Iso-Seq, ChIP-Seq, DamID-Seq, ATAC-Seq, and WGS."""
 
 [[skills]]
 name = "Statistics"
 # icon = "/images/sections/skills/kubernetes.png"
-summary = """
-"""
+summary = ""
 
 [[skills]]
 name = "Data Engineering"
